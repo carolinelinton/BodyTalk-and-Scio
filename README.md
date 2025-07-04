@@ -85,8 +85,8 @@
         <section class="section p-8">
             <h2 class="text-2xl font-semibold healing-text mb-4">Book a Session</h2>
             <p class="text-gray-700 mb-4">Schedule your healing session with ease using my Google Calendar. Choose a time that suits you and pay securely via Ikhoka.</p>
-            <a href="https://calendar.google.com/calendar/appointments/your_calendar_link" target="_blank" class="inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">Book Now</a>
-            <a href="https://ikhoka.com/your_payment_link" target="_blank" class="inline-block bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600 ml-4">Pay with Ikhoka</a>
+            <a href="https://calendar.google.com/calendar/appointments/https://calendar.app.google/GtjTtFQHb2Z5GCeD6" target="_blank" class="inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">Book Now</a>
+            <a href="https://ikhoka.com/<div style="width: 160px">	<h6 style="	  margin: 10px 0;	  padding: 0;	  font-family: roboto-regular, sans-serif;	  font-size: 14px;	  color: #1d1d1b;	">BodyTalk</h6>	<h6 style="	  margin: 10px 0;	  padding: 0;	  font-family: roboto-medium, sans-serif;	  font-size: 14px;	  color: #1d1d1b;	">R 800.00</h6>	<a href="https://pay.ikhokha.com/caroline-linton-fourways-bodytalk/buy/bodytalk" style="text-decoration: none">		<div		  style="			overflow: hidden;			display: flex;			justify-content: center;			align-items: center;			width: 100%;			height: 48px;			background: #FFCD00;			color: #1D1D1B;			border: 1px solid #e5e5e5;			box-shadow: 1px solid #e5e5e5;			border-radius: 16px;			font-family: roboto-medium, sans-serif;			font-weight: 700;		  "		>		  Buy Now		</div>	</a>	<h6	  style="		margin: 5px 0;		padding: 0;		font-size: 8px;		font-family: roboto-regular, sans-serif;		text-align: center;	  "	>	  Powered by iKhokha	</h6>  </div>" target="_blank" class="inline-block bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600 ml-4">Pay with Ikhoka</a>
         </section>
 
         <!-- Shop Section -->
@@ -118,7 +118,7 @@
     <!-- Footer -->
     <footer class="bg-gradient-to-r from-blue-200 to-green-200 py-4 text-center">
         <p class="text-gray-700">© 2025 Caroline Linton BodyTalk and Scio. All rights reserved.</p>
-        <p class="text-gray-700">Contact: <a href="mailto:your_email@gmail.com" class="underline">your_email@gmail.com</a> | South Africa</p>
+        <p class="text-gray-700">Contact: <a href="mailto:davie.caroline@gmail.com" class="underline">davie.caroline@gmail.com</a> | South Africa</p>
     </footer>
 </body>
 </html>
